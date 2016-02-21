@@ -1,4 +1,4 @@
-FROM enryold/docker-nginx-php7-yii2
+FROM daocloud.io/xiaogao0371/php
 
 MAINTAINER xiaogao0371<xiaogao0371@126.com>
 
