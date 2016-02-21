@@ -1,4 +1,4 @@
-FROM daocloud.io/xiaogao0371/php
+FROM daocloud.io/xiaogao0371/php:master-b149b1f
 
 MAINTAINER xiaogao0371<xiaogao0371@126.com>
 
